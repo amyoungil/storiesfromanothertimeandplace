@@ -14,3 +14,11 @@ Seems I can make a table with
 ---
 contents: This is the table
 --- 
+
+
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
