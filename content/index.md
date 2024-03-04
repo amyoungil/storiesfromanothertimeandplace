@@ -4,6 +4,8 @@ draft: false
 tags:
   - example-tag
 ---
+
+Today is March 4, 2024.
  
 ## I saw the Northern Flicker.
 The rest of your content lives here. You can use **Markdown** here :)
