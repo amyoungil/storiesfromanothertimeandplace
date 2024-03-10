@@ -1,3 +1,9 @@
+---
+title: "Index of My Files"
+description: "A brief summary of my article's content."
+tags: ["genai", "audio-visual", "research"]
+publish: true
+---
 Introduction
 1. Purpose and Focus: Introduce the specific aim of your project: exploring the intersection of Generative AI and Audio/Visual technologies. Mention your motivation and what you hope the audience gains from your journey.
 Background: Briefly share your background in GenAI, A/V, or related fields to establish context and connect with your audience.
