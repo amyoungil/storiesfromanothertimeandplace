@@ -15,8 +15,9 @@ publish: true
 
 ## Experiments
 ### Sorted by Projects: 
-- Mississippi Delta from 1870-1920s : still photos exist; historical texts
-- Platonic Love: visualizing Platonic solids 
+- [[Mississippi Delta GenAI Experiments 1870 - 1920s|Mississippi Delta]]: still photos exist; historical texts
+- [[Platonic Love]]: visualizing Platonic solids 
+
 ### Sorted by Types of Generators
 
 
