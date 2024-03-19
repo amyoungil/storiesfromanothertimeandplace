@@ -44,3 +44,6 @@ Networking: Express your interest in connecting with other GenAI + A/V enthusias
 9. Acknowledgments and References
 Credits: Acknowledge any collaborators, mentors, or communities that have supported your GenAI + A/V journey.
 References: List any academic papers, datasets, or artworks that have inspired your work, ensuring proper attribution.
+
+
+https://arxiv.org/pdf/2402.17119.pdf
