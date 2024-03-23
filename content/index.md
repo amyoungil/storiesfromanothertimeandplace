@@ -1,3 +1,11 @@
+---
+title: "Home page -- list of pages for amyoungil"
+draft: false
+tags:
+  - 
+publish: true
+---
+
 # GenAI
 
 ## Experiments and images:
