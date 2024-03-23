@@ -9,7 +9,7 @@ publish: true
 # GenAI
 
 ## Experiments and images:
-- Mississippi Delta GenAI Experiments 1870 - 1920s
+- [[Mississippi Delta GenAI Experiments 1870 - 1920s]]
 
 ## WebCon 2024 GenAI talk
 - April 4, 2024 [[/GenAI]]
@@ -18,3 +18,7 @@ publish: true
 
 ## Blender + solids
 - A list of **bpy** scripts and in what order I use them
+- [[/scripts]]
+- [[scripts]]
+- [[PlatonicLove]]
+
