@@ -18,8 +18,8 @@ publish: true
 
 ## Blender + solids
 - A list of **bpy** scripts and in what order I use them
-- [[/scripts]]
-- [[scripts]]
-- [[/PlatonicLove]]
-- [[/PlatonicLove/Scripts]]
+- [[/scripts]] -- dunno
+- [[scripts]] -- not right letter case
+- [[/PlatonicLove]] -- needs an index.md
+- [[/PlatonicLove/Scripts]] -- works
 
