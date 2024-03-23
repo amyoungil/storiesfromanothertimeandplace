@@ -20,5 +20,6 @@ publish: true
 - A list of **bpy** scripts and in what order I use them
 - [[/scripts]]
 - [[scripts]]
-- [[PlatonicLove]]
+- [[/PlatonicLove]]
+- [[/PlatonicLove/Scripts]]
 
