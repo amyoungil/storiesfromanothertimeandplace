@@ -1,1 +1,3 @@
-# This is the loose index.md page.
+# This is the top-level index of all the pages on this website.
+
+{< Explorer >}}
