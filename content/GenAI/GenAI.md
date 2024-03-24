@@ -51,10 +51,10 @@ Substack: https://meaningalignment.substack.com/p/the-first-moral-graph #example
     
 - **Finally, we’ll say why moral graphs are better targets for alignment than constitutions or simple rules like HHH**. We’ll suggest advantages of moral graphs in safety, scalability, oversight, interpretability, moral depth, and robustness to conflict and manipulation.
 
-![[Pasted image 20240122094514.png|300]]
+![Pasted image 20240122094514.png|300](Pasted image 20240122094514.png|300)
 
 
-![[Pasted image 20240122101203.png]]
+![Pasted image 20240122101203.png](Pasted image 20240122101203.png)
     
 2. **Image-to-Image Generators**:
         - **Function**: Transform or manipulate existing images into new forms.
