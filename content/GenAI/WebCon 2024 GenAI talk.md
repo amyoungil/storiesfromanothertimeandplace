@@ -1,10 +1,11 @@
 ---
 title: "WebCon 2024 GenAI talk"
-draft: true
 tags:
   - 
 publish: true
 ---
+
+
 
 ### AI-Generated Art: Understanding the Potential https://webcon.illinois.edu/timetable/event/ai-generated-art/
 Speakers: [Michael Curtin](https://webcon.illinois.edu/michael-curtin/), [Amy Young](https://webcon.illinois.edu/amy-young/)
