@@ -1,15 +1,12 @@
 ---
-title: "Gen2- Runway-New"
+title: "Gen2- Runway"
 publish: true
 ---
-
+![a.png](a.png)
 
 
 ![Pasted image 20240207151124.png](Pasted image 20240207151124.png)
 ![Pasted image 20240207151206.png](Pasted image 20240207151206.png)
-
-
-![Alt text](/Attached_Images/Pasted image 20240207151206.png](Pasted image 20240207151206.png)
 
 
 It's good at brainstorming ideas.
