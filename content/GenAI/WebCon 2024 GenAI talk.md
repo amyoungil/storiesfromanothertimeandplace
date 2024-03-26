@@ -52,9 +52,6 @@ Memory of Walter S. Mallory about a conversation with Thomas Edison: ‘ I have 
 
 1. Help me with Blender. Help me learn Blender.
 
-```ad-noprint
-I'm better at Python than I am at Blender.
-```
 
 Ex: Create a dodecahedron in bpy, and tell me how you're doing it. 
 
@@ -105,10 +102,6 @@ It knows the text used to describe it.
 
 ## Not exactly what I want yet, which I assume is what a lot of people want. 
 
-```ad-noprint
-Which means I have to stay informed. On GenAI. 
-Which is impossible. Even using AI to help me stay informed.
-```
 
 ## Digital Handout
 ### 1. **Curated List of Tools and Platforms**
