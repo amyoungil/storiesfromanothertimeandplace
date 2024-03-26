@@ -104,9 +104,11 @@ It knows the text used to describe it.
 
 
 ## Not exactly what I want yet, which I assume is what a lot of people want. 
+
+```ad-noprint
 Which means I have to stay informed. On GenAI. 
 Which is impossible. Even using AI to help me stay informed.
-
+```
 
 ## Digital Handout
 ### 1. **Curated List of Tools and Platforms**
