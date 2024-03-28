@@ -124,10 +124,6 @@ It knows the text used to describe it.
 
 - **Foundational Literature**: Suggest key articles, papers, and books that lay a solid foundation for understanding GenAI and its application in A/V. Highlight both introductory and advanced materials.
 - **Tutorials and Guides**: Share links to tutorials, online courses, or video guides that offer hands-on instruction on using specific GenAI tools or techniques in the A/V field.
-	
-==Introduction to Generative AI==
-This library guide is a UIUC campus resource to read and reference for instructional, professional, and personal learning. Updates will occur on a semester basis. Last Updated: March 2024
-	- https://guides.library.illinois.edu/generativeAI
 
 ### 3. **Examples and Case Studies**
 
